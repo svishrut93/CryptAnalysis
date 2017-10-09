@@ -1,5 +1,5 @@
 # CryptAnalysis
-<h1> Problem Introduction
+<h1> Problem Introduction<\h1>
 
 The problem described is a variation of the hill cipher: A polygraphic substitution cipher based on linear algebra.
 The author modifies the hill cipher in the following ways and calls it the “Hilly Cipher”
