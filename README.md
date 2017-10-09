@@ -16,7 +16,7 @@ Cipher text C2:
 ![alt text](https://github.com/svishrut93/CryptAnalysis/blob/master/Captures/cipher%20text%20c2.PNG)
 
 Other hints about the problem :
-• Both cipher texts C1 and C2 are encrypted with the same keys.<br>
+• Both cipher texts C1 and C2 are encrypted with the same keys.<br />
 • Cipher text C1 is not part of cipher text C2.
 The author also provides an additional lookup table with 11 characters ( *, #, &, %, $, +, ?, !, @, ^, - ).
 This table is rotated and is used as a substitution table for numbers during encryption.
